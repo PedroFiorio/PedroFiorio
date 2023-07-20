@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying in Federal University of Viçosa (UFV)<br>🌱 I’m currently learning Next.js<br>💬 Ask me about C++, JavaScript, MySQL<br>📄 Know about my experiences <a href="https://drive.google.com/file/d/11k_lGG6D9hC407k9TP2XTMb4W9mYZaJt/view?usp=sharing">this is my curriculum</a><br>📫 How to reach me pfb2099@gmail.com
+🔭 I am currently studying in Federal University of Viçosa (UFV)<br>🌱 I’m currently learning Next.js<br>💬 Ask me about C++, JavaScript, MySQL<br>📄 Know about my experiences <a href="https://docs.google.com/document/d/15FgChBUt6GGuSfh16bYiuGD7yQQuMJZ_OQPo_jVNIpM/edit?usp=sharing">this is my curriculum</a><br>📫 How to reach me pfb2099@gmail.com
 
 
 ## 🌐 Socials:
